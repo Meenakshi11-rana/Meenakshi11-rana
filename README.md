@@ -1,8 +1,6 @@
  <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:142B4A,100:2386F7&height=200&section=header&text=Meenakshi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20Data%20Science%20%7C%20Software%20Development&descAlignY=60&descSize=16" width="100%" alt="Meenakshi profile banner"/>
-
 
 ### Building ideas into practical solutions.
 
@@ -10,10 +8,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Meenakshi11-rana)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Meenakshi11-rana/meenakshi-portfolio)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/](https://leetcode.com/u/Meenakshi110/))
-[![HackerRank](https://img.shields.io/badge/HackerRank-Coding-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)]([https://www.hackerrank.com/](https://www.hackerrank.com/profile/meenakshi_11r))
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Meenakshi110/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Coding-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/meenakshi_11r)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/meenakshi11r)
-
 
 </div>
 
@@ -53,26 +50,26 @@ My goal is to strengthen my fundamentals and turn what I learn into practical, r
 </tr>
 </table>
 
-
+---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&perline=6" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&perline=6" alt="Java, Python, JavaScript, TypeScript, HTML and CSS"/>
 </p>
 
 ### 🌐 Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&perline=5" alt="Web Development Technologies" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&perline=5" alt="React, Node.js, Express, MongoDB and Tailwind CSS"/>
 </p>
 
 ### 🗄️ Databases and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode&perline=5" alt="Databases and Development Tools" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode&perline=5" alt="MySQL, PostgreSQL, Git, GitHub and Visual Studio Code"/>
 </p>
 
 ### 🤖 AI/ML and Emerging Technologies
@@ -81,6 +78,8 @@ My goal is to strengthen my fundamentals and turn what I learn into practical, r
 - Convolutional Neural Networks (CNN) for audio classification
 - Blockchain concepts and certificate integrity verification
 - Data analysis and problem-solving
+
+---
 
 ## 🚀 Featured Projects
 
@@ -94,7 +93,7 @@ My goal is to strengthen my fundamentals and turn what I learn into practical, r
 
 An AI/ML project focused on classifying audio using a Convolutional Neural Network.
 
-**Focus areas:** Audio processing, Python, deep learning, model evaluation.
+**Focus areas:** Audio processing, Python, deep learning, and model evaluation.
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Meenakshi11-rana/EchoNet-Audio-classification-using-CNN)
 
@@ -107,7 +106,7 @@ An AI/ML project focused on classifying audio using a Convolutional Neural Netwo
 
 A project focused on certificate integrity and verification using cryptographic hashes and an Ethereum-compatible blockchain.
 
-**Focus areas:** Blockchain, cryptographic hashing, digital verification.
+**Focus areas:** Blockchain, cryptographic hashing, and digital verification.
 
 </td>
 </tr>
@@ -118,7 +117,7 @@ A project focused on certificate integrity and verification using cryptographic 
 
 A project focused on analyzing resumes for compatibility with Applicant Tracking Systems (ATS).
 
-**Focus areas:** Python, resume analysis, text processing.
+**Focus areas:** Python, resume analysis, and text processing.
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Meenakshi11-rana/ATS-Optimized-Resume-Analyzer)
 
@@ -129,7 +128,7 @@ A project focused on analyzing resumes for compatibility with Applicant Tracking
 
 A personal website showcasing projects, technical skills, and development work.
 
-**Focus areas:** HTML, CSS, responsive web design.
+**Focus areas:** HTML, CSS, and responsive web design.
 
 [![View Portfolio Repository](https://img.shields.io/badge/View_Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Meenakshi11-rana/meenakshi-portfolio)
 
@@ -137,6 +136,7 @@ A personal website showcasing projects, technical skills, and development work.
 </tr>
 </table>
 
+---
 
 ## 🧠 Coding Practice
 
@@ -144,7 +144,7 @@ I regularly solve coding problems to strengthen my Data Structures and Algorithm
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Meenakshi110/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-DSA_Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/meenakshi11r)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Coding_Challenges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/meenakshi_11r)
 
@@ -159,6 +159,8 @@ I regularly solve coding problems to strengthen my Data Structures and Algorithm
 - [LeetCode Solutions](https://github.com/Meenakshi11-rana/leetcode_questions)
 - [HackerRank Solutions](https://github.com/Meenakshi11-rana/hackerrank-solutions)
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -171,6 +173,8 @@ I regularly solve coding problems to strengthen my Data Structures and Algorithm
 
 </div>
 
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -181,6 +185,8 @@ I regularly solve coding problems to strengthen my Data Structures and Algorithm
 
 *Your actual GitHub contribution calendar is also available directly on your profile.*
 
+---
+
 ## 🎯 What I'm Working Towards
 
 - Strengthening Data Structures and Algorithms.
@@ -189,9 +195,13 @@ I regularly solve coding problems to strengthen my Data Structures and Algorithm
 - Improving code quality, project documentation, and software design.
 - Growing through consistent coding and collaborative development.
 
+---
+
 ## 💬 Ask Me About
 
-`Java` · `Python` · `JavaScript` · `SQL` · `Web Development` · `DSA` · `AI/ML` · `CNN` 
+`Java` · `Python` · `JavaScript` · `SQL` · `Web Development` · `DSA` · `AI/ML` · `CNN` · `Blockchain`
+
+---
 
 ## 🤝 Let's Connect
 
@@ -200,7 +210,9 @@ I'm always interested in learning, building projects, and exploring new ideas in
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Meenakshi11-rana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-4285F4?style=for-the-badge&logo=vercel)](https://github.com/Meenakshi11-rana/meenakshi-portfolio)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Connect-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Meenakshi110/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Connect-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/meenakshi11r)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Connect-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/meenakshi_11r)
 
 ### "Learn continuously. Build practically. Improve consistently."
 
