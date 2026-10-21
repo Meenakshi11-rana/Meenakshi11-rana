@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:142B4A,100:2386F7&height=200&section=header&text=Meenakshi%20Rana&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20Data%20Science%20%7C%20Software%20Development&descAlignY=60&descSize=16" width="100%" alt="Meenakshi Rana profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:142B4A,100:2386F7&height=200&section=header&text=Meenakshi%20Rana&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20Data%20Science%20%7C%20Software%20Development&descAlignY=60&descSize=16" width="100%" alt="Meenakshi profile banner"/>
 
 ### Building ideas into practical solutions.
 
