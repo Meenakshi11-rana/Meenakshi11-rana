@@ -51,25 +51,24 @@ My goal is to strengthen my fundamentals and turn what I learn into practical, r
 </table>
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&perline=6" alt="Java, Python, JavaScript, TypeScript, HTML and CSS"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css&perline=5" alt="Java, Python, JavaScript, HTML and CSS"/>
 </p>
 
 ### 🌐 Web Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&perline=5" alt="React, Node.js, Express, MongoDB and Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React"/>
 </p>
 
 ### 🗄️ Databases and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode&perline=5" alt="MySQL, PostgreSQL, Git, GitHub and Visual Studio Code"/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&perline=4" alt="MySQL, Git, GitHub and Visual Studio Code"/>
 </p>
 
 ### 🤖 AI/ML and Emerging Technologies
@@ -78,9 +77,6 @@ My goal is to strengthen my fundamentals and turn what I learn into practical, r
 - Convolutional Neural Networks (CNN) for audio classification
 - Blockchain concepts and certificate integrity verification
 - Data analysis and problem-solving
-
----
-
 ## 🚀 Featured Projects
 
 <table>
