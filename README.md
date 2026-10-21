@@ -58,19 +58,19 @@ My goal is to strengthen my fundamentals and turn what I learn into practical, r
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" alt="Java, Python, JavaScript, TypeScript, HTML and CSS"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" alt="Java, Python, JavaScript, HTML and CSS"/>
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" alt="React, Node.js, Express, MongoDB and Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" alt="React"/>
 </p>
 
 ### 🗄️ Databases and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" alt="MySQL, PostgreSQL, Git, GitHub and Visual Studio Code"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" alt="MySQL, SQL, Git, GitHub and Visual Studio Code"/>
 </p>
 
 ### 🤖 AI/ML and Emerging Technologies
