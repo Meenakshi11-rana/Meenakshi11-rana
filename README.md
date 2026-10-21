@@ -193,11 +193,11 @@ I regularly solve coding problems to strengthen my Data Structures and Algorithm
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meenakshi11-rana&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+[![GitHub Profile](https://img.shields.io/badge/View_My_GitHub_Contributions-181717?style=for-the-badge&logo=github)](https://github.com/Meenakshi11-rana)
+
+**Track my coding activity and daily contributions on GitHub.**
 
 </div>
-
-**My GitHub contributions:** [View my contribution calendar](https://github.com/Meenakshi11-rana)
 
 
 
