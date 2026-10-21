@@ -55,10 +55,24 @@ My goal is to strengthen my fundamentals and turn what I learn into practical, r
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" alt="Java, Python, JavaScript, HTML and CSS"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&perline=6" alt="Programming Languages" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&perline=5" alt="Web Development Technologies" />
+</p>
+
+### 🗄️ Databases and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode&perline=5" alt="Databases and Development Tools" />
 </p>
 
 ### 🌐 Web Development
