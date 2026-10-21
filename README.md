@@ -53,7 +53,7 @@ My goal is to strengthen my fundamentals and turn what I learn into practical, r
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+
 
 ## 🛠️ Tech Stack
 
@@ -73,18 +73,6 @@ My goal is to strengthen my fundamentals and turn what I learn into practical, r
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode&perline=5" alt="Databases and Development Tools" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" alt="React"/>
-</p>
-
-### 🗄️ Databases and Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" alt="MySQL, SQL, Git, GitHub and Visual Studio Code"/>
 </p>
 
 ### 🤖 AI/ML and Emerging Technologies
