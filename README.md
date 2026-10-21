@@ -1,6 +1,8 @@
  <div align="center">
 
-<img src="https://chatgpt.com/s/m_6ad8855acc1c8191b7a61f5ea0ed23b3"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:142B4A,100:2386F7&height=200&section=header&text=Meenakshi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20Data%20Science%20%7C%20Software%20Development&descAlignY=60&descSize=16" width="100%" alt="Meenakshi profile banner"/>
+
 
 ### Building ideas into practical solutions.
 
