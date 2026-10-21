@@ -10,8 +10,10 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Meenakshi11-rana)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Meenakshi11-rana/meenakshi-portfolio)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Coding-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/](https://leetcode.com/u/Meenakshi110/))
+[![HackerRank](https://img.shields.io/badge/HackerRank-Coding-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)]([https://www.hackerrank.com/](https://www.hackerrank.com/profile/meenakshi_11r))
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/meenakshi11r)
+
 
 </div>
 
@@ -133,15 +135,27 @@ A personal website showcasing projects, technical skills, and development work.
 </tr>
 </table>
 
+
 ## 🧠 Coding Practice
 
-I regularly work on programming problems to improve my logical thinking, data structures, algorithms, and coding skills.
+I regularly solve coding problems to strengthen my Data Structures and Algorithms, logical thinking, and problem-solving skills.
 
-- ☕ **Java:** LeetCode problem-solving and DSA practice
-- 💡 **HackerRank:** Programming exercises and coding challenges
-- 🧩 **Goal:** Write clearer, more efficient, and maintainable code
+<div align="center">
 
-[Explore my LeetCode solutions](https://github.com/Meenakshi11-rana/leetcode_questions) · [Explore my HackerRank solutions](https://github.com/Meenakshi11-rana/hackerrank-solutions)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-DSA_Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/meenakshi11r)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Coding_Challenges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/meenakshi_11r)
+
+</div>
+
+- ☕ **Java:** DSA and coding problem solutions.
+- 🧩 **Practice:** Arrays, strings, algorithms, and problem-solving.
+- 🚀 **Goal:** Write efficient, readable, and maintainable code.
+
+**My coding repositories:**
+
+- [LeetCode Solutions](https://github.com/Meenakshi11-rana/leetcode_questions)
+- [HackerRank Solutions](https://github.com/Meenakshi11-rana/hackerrank-solutions)
 
 ## 📊 GitHub Statistics
 
