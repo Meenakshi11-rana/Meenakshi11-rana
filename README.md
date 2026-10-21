@@ -161,11 +161,29 @@ I regularly solve coding problems to strengthen my Data Structures and Algorithm
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Meenakshi11-rana&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="48%" alt="GitHub profile statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Meenakshi11-rana&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="48%" alt="GitHub statistics"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meenakshi11-rana&layout=compact&theme=github_dark&hide_border=true" width="40%" alt="Most used programming languages"/>
 
 <img src="https://streak-stats.demolab.com?user=Meenakshi11-rana&theme=github-dark-blue&hide_border=true" width="65%" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🧑‍💻 LeetCode Progress
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Meenakshi110/">
+<img src="https://leetcard.jacoblin.cool/Meenakshi110?theme=dark&font=baloo&ext=heatmap" width="75%" alt="Meenakshi's LeetCode statistics and activity"/>
+</a>
+
+### 🔥 38-Day LeetCode Streak
+
+**Consistency is the key to mastering DSA!**
+
+[![LeetCode Profile](https://img.shields.io/badge/Visit-LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Meenakshi110/)
 
 </div>
 
